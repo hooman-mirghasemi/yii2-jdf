@@ -28,4 +28,7 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \hoomanMirghasemi\jdf\AutoloadExample::widget(); ?>```
+<?php 
+use hoomanMirghasemi\jdf\Jdf;
+?>
+<?= Jdf::date(); ?>```
