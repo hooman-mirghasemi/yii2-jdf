@@ -1,0 +1,21 @@
+{
+    "name": "hooman.mirghasemi/yii2-jdf",
+    "description": "jdf library for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","date","jalali date"," jdf"," jDate"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Hooman Mirghasemi",
+            "email": "hooman.programmer@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hoomanMirghasemi\\jdf\\": ""
+        }
+    }
+}
