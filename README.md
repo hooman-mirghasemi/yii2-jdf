@@ -31,4 +31,4 @@ Once the extension is installed, simply use it in your code by  :
 <?php 
 use hoomanMirghasemi\jdf\Jdf;
 ?>
-<?= Jdf::date(); ?>```
+<?= Jdf::jdate(); ?>```
