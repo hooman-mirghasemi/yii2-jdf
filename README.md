@@ -32,3 +32,7 @@ Once the extension is installed, simply use it in your code by  :
 use hoomanMirghasemi\jdf\Jdf;
 ?>
 <?= Jdf::jdate(); ?>```
+
+
+This extension built with http://jdf.scr.ir/ you can get full document there.
+
