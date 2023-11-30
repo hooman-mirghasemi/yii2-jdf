@@ -1,5 +1,5 @@
 {
-    "name": "hooman.mirghasemi/yii2-jdf",
+    "name": "hooman-mirghasemi/yii2-jdf",
     "description": "jdf library for yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","date","jalali date"," jdf"," jDate"],
