@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist hooman-mirghasemi/yii2-jdf "*"
 or add
 
 ```
-"hooman.mirghasemi/yii2-jdf": "*"
+"hooman-mirghasemi/yii2-jdf": "*"
 ```
 
 to the require section of your `composer.json` file.
